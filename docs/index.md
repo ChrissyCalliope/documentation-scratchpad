@@ -11,6 +11,6 @@ This set of Github pages has two complementary functions:
 
 Well, they have been created to make use of Github pages to host some content for me for free! This great facility lets me have a small platform to talk about my role and to share some of my experience with others. 
 
-It also provides a space where I can work with Markdown and Github pages to show some samples of my working and my thinking and to give people an idea as to why I have become not just a technical author, but a technical writing evangelist!
+These pages also provide a space where I can work with Markdown and Github to show some samples of my work (those not covered by NDAs), and to elaborate on my thinking. I hope this will give people an idea as to why I have become not just a technical author, but a technical writing evangelist!
 
 I hope you find these pages illuminating. 
