@@ -1,4 +1,6 @@
-# Calliope Technical Writing Services
+![Company Flash](images/calliope.png)
+
+# Technical Writing
 
 Documentation is an important part of any software project. It helps your team to arrive at a common understanding of their tool, helps to sell the tool to potential customers, and helps new developers to extend, improve and use your tool. 
 
