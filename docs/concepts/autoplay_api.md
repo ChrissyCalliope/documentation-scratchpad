@@ -2,7 +2,7 @@
 
 Unlike the other topics, this contains two different pieces of documentation:
 1. The *API Reference section* should be present in the Interfaces Guide. It points the reader to the Swagger file itself. 
-1. The *Example: Autoplay Countdown* is a snippet showing the annotations that I would add to the Swagger file (API contract). In this case, I've shown some descriptions that I would add to a Swagger file.
+1. The *Example: Autoplay Countdown* is a snippet showing the annotations that I would add to the Swagger file (API contract). I've shown some descriptions that I would add to a Swagger file.
 
 ## API Reference 
 
@@ -12,7 +12,7 @@ https://&lt;host&gt;:&lt;port&gt;/Service/
 
 Where &lt;host&gt; and &lt;port&gt; need to be replaced with your system's deployment location.
 
-**Note:** You can use the **Try it Out** button for each of the endpoints, but be aware that you are actually hitting the endpoint at this location.  
+**Note:** You can use the **Try it Out** button for each of the endpoints, but be aware that you are actually hitting the endpoint at this location. Do not make any changes that you are not confident about.
 
 ## Example: Autoplay Countdown
 
@@ -26,10 +26,11 @@ The following is the input Open API / Swagger file (yaml) and some documentation
     title: "Swagger Autoplay API"
     description: >
       This documentation describes the endpoints that are associated with the Autoplay functionality. 
-      Autoplay allows the next video on your Up Next list to start automatically in your player, after a countdown is complete.
+      Autoplay starts the next video on your Up Next list automatically, after a countdown is complete.
       Autoplay is enabled by default when viewed in a standard browser on a PC or handheld device. 
       Autoplay can be turned off manually by the user. 
-      Autoplay will not start the next video if the device has been inactive on the mobile network for a period of 30 minutes, or on WIKI for 4 hours. 
+      Autoplay will time out if the mobile device has been inactive on the network for 30 minutes, 
+      Autoplay will time out if the Wifi has been inactive for 4 hours. 
   host: "autoplay.swagger.io"
   basePath: "/api"
   schemes: 
@@ -62,6 +63,8 @@ The following is the input Open API / Swagger file (yaml) and some documentation
 
 ## Additional Items and Comments
 
+* We could set a range for this value, capping the countdown period at, say, 30 seconds. That would seem a good design, but would be for the contract owner (BA?) to decide. 
 * Document Type: Interfaces Guide
 * It is likely that there would also need to be authentication and other high-level accompanying documentation.  
 * This content re-uses the description of what auto-play actually is from the User Materials. 
+* Reader: Developer, Service Operator
