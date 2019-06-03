@@ -1,26 +1,25 @@
-# Auto-Play Videos
+# Autoplay Videos
 
-By default, auto-play automatically starts the next video that is lined up for you in your **Up next** column when the video you are watching ends.
+By default, **AUTOPLAY** automatically starts the next video that is lined up for you in your **Up next** column when the video you are watching ends.
 
 The next video does not start playing immediately. It is loaded into the main window, and a 10 second countdown is started. 
-
 * If you do nothing, the video starts after 10 seconds. 
 * If you click the **Play** icon, the video starts immediately. 
-* If you click **Cancel**, the video is does not start and the countdown ends. 
+* If you click **CANCEL**, the video does not start and the countdown ends. 
 
-## Turn off Auto-Play
+## Turn off Autoplay
 
-If you do not want the next video to start automatically, then you can turn off auto-play in the top right-hand corner. 
+If you do not want the next video to start automatically, then you can turn off autoplay in the top right-hand corner. 
 
 ### PC (Default if Opened on PC)
 
-* Toggle the *Auto-Play* option above the **Up next** column.   
+* Toggle the *Autoplay* option above the **Up next** column.   
 
-*Fig 1: Auto-Play Toggle (Auto-Play is OFF)*
+*Fig 1: Autoplay Toggle (Autoplay is OFF)*
 
-![Name](../images/autoplay.png)
+![Autoplay Toggle](../images/autoplay.png)
 
-This turns off Auto-Play. Auto-Play is not limited to one visit to the website, and will remain off until you use the same widget to turn it back on.
+This turns off Autoplay. Autoplay is not limited to this session, and will remain off until you use the same widget to turn it back on. 
 
 ### Mobile
 
@@ -28,10 +27,10 @@ This turns off Auto-Play. Auto-Play is not limited to one visit to the website, 
 
 ## Additional Items and Comments
 
-* There should also be a "Turn On Auto-Play" topic.
+* There should also be a "Turn On Autoplay" topic.
 * Depending on the scope of configuration available, there may also be one or more configuration options. (For example, you may not want to see a 10 second countdown.)
 * If there is a troubleshooting section, it could include: 
   * "My Video Does Not Start Automatically"
   * "I want to Stop Videos Starting Automatically"
-  * "How does Auto-Play Select the next Video to play?"
+* I would also add a link to a topic "How does Autoplay Select the next Video to play?"
 * I would also recommend a "How to" pop-up telling users to switch this on / off if they would like to use it.  
