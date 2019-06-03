@@ -1,1 +1,1 @@
-# Enable Auto-play Videos
+# Enable Autoplay Videos
