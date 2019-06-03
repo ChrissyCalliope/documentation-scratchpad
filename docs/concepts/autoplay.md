@@ -15,17 +15,17 @@ If you do not want the next video to start automatically, then you can turn off 
 
 * Toggle the *Autoplay* option above the **Up next** column.   
 
-![Autoplay Toggle - Off](../images/autoplay.png)
+ ![Autoplay Toggle - Off](../images/autoplay.png)
 
 This turns off Autoplay. Your autoplay setting is not limited to this session. Autoplay will remain off until you use the same widget to turn it back on. 
 
 ### Mobile
 
-*(Details of the Mobile process, hidden in the PC version on a tab.)*
+*(Details of the Mobile process, hidden on a tab in the PC version.)*
 
 ### TV Box 
 
-*(Details of TV process, hidden in the PC version on a tab.)*
+*(Details of TV process, hidden on a tab in the PC version.)*
 
 ## Additional Items and Comments
 
