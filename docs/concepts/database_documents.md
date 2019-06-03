@@ -25,9 +25,9 @@ Please document how this feature works with the following conditions in mind:
 
 Type | Link | Notes
 --- | --- | --- 
-User Guide | [Auto-play Videos](autoplay.md) | Describes Auto-play functionality, including limitations. Describes how to configure auto-play on and off. Instructions are tabbed to reflect different device types where applicable.
+User Guide | [Auto-Play Videos](autoplay.md) | Describes Auto-play functionality, including limitations. Describes how to configure auto-play on and off. Instructions are tabbed to reflect different device types where applicable.
 API Guide | [Enable Auto-play Videos](autoplay_api.md) | Describes how to use the API to set auto-play on for a particular user (accompanies code-level documentation, for example in swagger).
-Release Information | [New and Modified Features: Auto-Play] (autoplay_rn.md) | Notifies the user that the new auto-play feature is available. 
+Release Information | [New and Modified Features: Auto-Play](autoplay_rn.md) | Notifies the user that the new auto-play feature is available. 
 
 Possible additional documentation requirements: 
 * If your tool is re-badged by other companies, you may need to communicate how to make this feature available to the development users at those companies (depending on implementation). 
