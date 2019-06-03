@@ -11,7 +11,7 @@ Typically, the next video does not start playing immediately. It is loaded into 
 
 If you do not want the next video to start automatically, then you can turn off autoplay in the top right-hand corner. 
 
-### PC (Default Tab if Opened on PC)
+### Tabs: PC | <span color="#CCCCCC">Mobile | TV</span>
 
 * Toggle the *Autoplay* option above the **Up next** column.   
 
@@ -20,16 +20,6 @@ If you do not want the next video to start automatically, then you can turn off 
 This turns off Autoplay. Your autoplay setting is not limited to this session, and will remain off until you use the same widget to turn it back on. 
 
 **Note:** Autoplay will not continue indefinitely on Wifi. Autoplay will time out (videos will cease to automatically start) after 4 hours of inactivity.  
-
-### Mobile
-
-*(Details of the Mobile process, hidden on a tab in the PC version.)*
-
-**Note:** Autoplay will not continue indefinitely on a mobile network. Autoplay will time out after 30 minutes of inactivity.
-
-### TV Box 
-
-*(Details of TV process, hidden on a tab in the PC version.)*
 
 ## Additional Items and Comments
 
@@ -40,3 +30,4 @@ This turns off Autoplay. Your autoplay setting is not limited to this session, a
   * I want to Stop Videos Starting Automatically
 * It would be good to add a link to this topic: How does Autoplay Select the next Video to play?
 * I also recommend creating a "How to" pop-up, telling users to switch this on / off if they would like to use it.  
+* Reader: User, Sales representative, Tester and developer (if this content is produced as part of the design for the functionality and only becomes its post creation description after it is developed).
