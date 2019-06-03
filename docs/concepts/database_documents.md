@@ -26,7 +26,7 @@ Please document how this feature works with the following conditions in mind:
 Type | Link | Notes
 --- | --- | --- 
 User Guide | [Autoplay Videos](autoplay.md) | Describes Autoplay functionality, including limitations. Describes how to configure autoplay on and off. (Note: Instructions are tabbed to reflect different device types where applicable.)
-API Guide | [Configure Autoplay Countdown](autoplay_api.md) | Describes how to use the API to set the countdown period for autoplay (code-level documentation).
+Interfaces Guide | [Configure Autoplay Countdown](autoplay_api.md) | Describes how to use the API to set the countdown period for autoplay (code-level documentation).
 Release Information | [New and Modified Features: Autoplay](autoplay_rn.md) | Notifies the user that the new autoplay feature is available. 
 
 Possible additional documentation requirements: 
