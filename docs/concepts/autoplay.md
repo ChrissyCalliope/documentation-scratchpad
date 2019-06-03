@@ -1,6 +1,6 @@
 # Autoplay Videos
 
-By default, **AUTOPLAY** automatically starts the next video for you when the video you are watching ends. The next video for you is at the top of your **Up next** column, to the right of your player window.  
+By default, **AUTOPLAY** automatically starts the next video for you when the video you are watching ends. The next video for you is the one at the top of your **Up next** column, to the right of your player window.  
 
 The next video does not start playing immediately. It is loaded into the player window, and a 10 second countdown is started. 
 * If you do nothing, the video starts after the 10 seconds are up. 
