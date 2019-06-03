@@ -2,7 +2,7 @@
 
 Unlike the other topics, this contains two different pieces of documentation:
 1. The *API Reference section* should be present in the Interfaces Guide. It points the reader to the Swagger file itself. 
-1. The *Example: Autoplay Countdowm* is a snippet showing the annotations that I would add to the Swagger file (API contract). In this case, I've shown some descriptions that I would add to a Swagger file.
+1. The *Example: Autoplay Countdown* is a snippet showing the annotations that I would add to the Swagger file (API contract). In this case, I've shown some descriptions that I would add to a Swagger file.
 
 ## API Reference 
 
