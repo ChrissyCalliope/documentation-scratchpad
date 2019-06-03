@@ -18,8 +18,8 @@ Please document how this feature works with the following conditions in mind:
 
 ### Notes about the Solution
 
-* I have assumed that the functionality will follow that of the YouTube autoplay functionality. 
-* I have assumed that content will be single sourced to be presented in the format that is most applicable to the device in question, and to present information that is applicable to the device being used by default (if there are alternate steps for other device types, they should be hidden by default). 
+* I have assumed that the functionality will follow YouTube autoplay. 
+* I have assumed that content will be single-sourced to be presented in the format that is most applicable to the device in question, and to present information that is applicable to the device being used by default (if there are alternate steps for other device types, they should be hidden by default). 
 
 ## Sample Documentation
 
