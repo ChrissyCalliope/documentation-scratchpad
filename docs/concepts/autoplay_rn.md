@@ -11,3 +11,8 @@ Your users can:
 * Switch autoplay off and on in their browser according to their needs.
 * Configure the countdown period between the end of one video and the start of the next. 
 * Use the Autoplay API endpoints to make changes programmatically.  
+
+## Additional Items and Comments
+
+* Document type: Release notes
+* Reader: All
