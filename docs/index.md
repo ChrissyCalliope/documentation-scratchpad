@@ -17,4 +17,4 @@ I hope you find these pages illuminating.
 
 ## Table of Contents
 
-* [Case Study: Auto-Play](concepts/database_documents.md)
+* [Case Study: Autoplay](concepts/database_documents.md)
