@@ -1,6 +1,6 @@
 # Auto-Play Case Study - Suggested Documentation
 
-This case study describes how to use, configure, etc. an auto-play video option. It also contains some information about approach, tools and so on, to give an insight into the thought processes applied when creating documentation.
+This case study shows what documentation might look like that describes how to use and configure an auto-play video option. To give an insight into the thought processes applied when creating documentation, it also contains some information about approach, tools and so on.
 
 **Note:** It is worth mentioning, I think, that a sample of writing does not let you see the most important skill of the writer; that is, ensuring that the content is accurate and appropriate. This skill (of understanding and then re-presenting) is undervalued, but is the key to  successful communications.
 
@@ -33,7 +33,7 @@ Possible additional documentation requirements:
 * If your tool is re-badged by other companies, you may need to communicate how to make this feature available to the development users at those companies (depending on implementation). 
 * You may also need to provide press releases or blogged information about this new feature, to engage customers and drive uptake. 
 
-I think these additional items are unlikely because of the nature of auto-play. 
+I think these additional items aren't needed because of the nature of auto-play. 
 
 
 
