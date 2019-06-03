@@ -1,1 +1,1 @@
-# New and Modified Features: Auto-Play
+# New and Modified Features: Autoplay
