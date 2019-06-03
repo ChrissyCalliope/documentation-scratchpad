@@ -1,6 +1,8 @@
 # Configure Autoplay Countdown
 
-The 
+Unlike the other topics, this topic two different pieces of documentation
+1. The API Reference section is the content that would be present in the Interfaces Guide. 
+1. The Example: Autoplay Countdowm 
 
 ## API Reference 
 
@@ -12,7 +14,8 @@ The
   info: 
     version: "1.0.0"
     title: "Swagger Autoplay API"
-    description: "A sample API for enabling autoplay"
+    description: >
+      This documentation describes the endpoints that can be used to XXX
   host: "auto.swagger.io"
   basePath: "/api"
   schemes: 
