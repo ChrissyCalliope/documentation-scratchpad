@@ -1,20 +1,22 @@
 # Configure Autoplay Countdown
 
-Unlike the other topics, this contains two different pieces of documentation
+Unlike the other topics, this contains two different pieces of documentation:
 1. The *API Reference section* should be present in the Interfaces Guide. It points the reader to the Swagger file itself. 
-1. The *Example: Autoplay Countdowm* is a snippet showing the annotations that I would add to the Swagger file (API contract). In this case, I've shown some descriptions that I would add to a Swagger file. (See `description:`.)
+1. The *Example: Autoplay Countdowm* is a snippet showing the annotations that I would add to the Swagger file (API contract). In this case, I've shown some descriptions that I would add to a Swagger file.
 
 ## API Reference 
 
-The REST API for this component is described following the open API Specification (or Swagger Specification). You can find the Open API file (a YAML file) that describes your entire API (endpoints, parameters, authentication methods and document metadata), at the location:
+The REST API for this component is described following the open API Specification (or Swagger Specification). You can find the Open API file that describes your entire API (endpoints, parameters, authentication methods and document metadata), at the location:
 
 https://&lt;host&gt;:&lt;port&gt;/Service/ 
 
-**Note:** You can use the **Try it Out** button for each of the endpoints, but be aware that you are actually hitting the endpoint.  
-  
-*In a real topic, you would need to replace the &lt;host&gt; and &lt;port&gt; values with the appropriate values, and the file at that location would look something like this: [http://petstore.swagger.io/](http://petstore.swagger.io/). 
+Where &lt;host&gt; and &lt;port&gt; need to be replaced with your system's deployment location.
+
+**Note:** You can use the **Try it Out** button for each of the endpoints, but be aware that you are actually hitting the endpoint at this location.  
 
 ## Example: Autoplay Countdown
+
+The following is the input Open API / Swagger file (yaml) and some documentation. Note that this content (the values of the `description:` fields) is displayed at the preceding location, and will be transformed into a Swagger page that looks something like:  [http://petstore.swagger.io/](http://petstore.swagger.io/). 
 
 ```
 ---
@@ -61,5 +63,5 @@ https://&lt;host&gt;:&lt;port&gt;/Service/
 ## Additional Items and Comments
 
 * Document Type: Interfaces Guide
-* This document complements an annotated API information, for example,  
+* It is likely that there would also need to be authentication and other high-level accompanying documentation.  
 * This content re-uses the description of what auto-play actually is from the User Materials. 
