@@ -8,7 +8,7 @@ A documentation case study that describes how to use and configure an autoplay v
 
 Many video services have an autoplay feature. This enables a user to watch the next episode of the current show (or other relevant piece of content) automatically when the current video ends.
 
-Please document how this feature works with the following conditions in mind:
+The documentation of this feature should keep the following conditions in mind:
 * There are multiple users of the documentation:
   * Sales representatives who need to know what value the feature will bring to the owner of the service.
   * The service owner who needs to know how the feature will work for consumers.
@@ -19,7 +19,7 @@ Please document how this feature works with the following conditions in mind:
 ### Notes about the Solution
 
 * I have assumed that the functionality will follow YouTube autoplay. 
-* I have assumed that content will be single-sourced to be presented in the format that is most applicable to the device in question, and to present information that is applicable to the device being used by default (if there are alternate steps for other device types, they should be hidden by default). 
+* I have assumed that content will be single-sourced to be presented in the HTML-style format that is most applicable to the device in question, and to present information that is applicable to the device being used by default (if there are alternate steps for other device types, they should be hidden by default). 
 
 ## Sample Documentation
 
