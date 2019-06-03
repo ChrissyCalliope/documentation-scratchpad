@@ -1,6 +1,6 @@
 # Autoplay Case Study - Suggested Documentation
 
-This case study shows what documentation might look like that describes how to use and configure an autoplay video option. To give an insight into the thought processes applied when creating documentation, it also contains some information about approach, tools and so on.
+A documentation case study that describes how to use and configure an autoplay video option. This gives an insight into the thought processes applied when creating documentation, and also contains some information about approach, tools and so on.
 
 **Note:** It is worth mentioning, I think, that a sample of writing does not let you see the most important skill of the writer; that is, ensuring that the content is accurate and appropriate. This skill (of understanding and then re-presenting) is undervalued, but is the key to  successful communications.
 
