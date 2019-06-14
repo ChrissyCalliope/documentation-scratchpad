@@ -17,4 +17,7 @@ I hope you find these pages illuminating.
 
 ## Table of Contents
 
-* [Case Study: Autoplay](concepts/database_documents.md)
+* Case Studies:
+  * [Autoplay](concepts/database_documents.md)
+* Test Sites:
+  * [GitBook Test Pages](https://calliope.gitbook.io/test-gitbook)
