@@ -23,7 +23,7 @@ This turns off Autoplay. Your autoplay setting is not limited to this session, a
 
 ## Additional Items and Comments
 
-* The example shows the PC tab; the Mobile and TV tabs will describe the equivalent processes and features for those ifferent device types. 
+* The example shows the PC tab; the Mobile and TV tabs will describe the equivalent processes and features for those different device types. 
 * There should also be a "Turn On Autoplay" topic.
 * Depending on the scope of configuration available, there may also be one or more configuration options that can be set by the user. 
 * If there is a troubleshooting section, it should include: 
